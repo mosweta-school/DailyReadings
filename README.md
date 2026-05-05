@@ -69,6 +69,9 @@ npm run dev
 - Meet the Saints: View the portrait of today's celebrated figure and read their historical summary.
 - Deep Dive: Click the "Learn More on Catholic Online" link to read full hagiographies and theological reflections.
 - Readings: Scroll through the First Reading, Psalm, and Gospel in a clean, distraction-free environment.
+## 🖼️ Screenshot
+<img width="1880" height="1000" alt="image" src="https://github.com/user-attachments/assets/a3c64fd3-88e0-4eec-b0db-f299c4525fb0" />
+
   
 ## 🔮 Future Improvements
 - 🎙️ Audio Integration: Built-in Text-to-Speech to listen to the daily readings.
